@@ -4,6 +4,7 @@ package com.lambdaschool.countries.models;
 
 import javax.annotation.processing.Generated;
 import javax.persistence.*;
+import javax.persistence.Entity;
 
 @Entity
 @Table(name = "countries")
